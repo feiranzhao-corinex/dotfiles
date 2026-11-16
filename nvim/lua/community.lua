@@ -14,6 +14,7 @@ return {
   -- { import = "astrocommunity.colorscheme.neosolarized-nvim" },
   { import = "astrocommunity.completion.blink-copilot" },
   { import = "astrocommunity.ai.copilotchat-nvim" },
+  { import = "astrocommunity.ai.codex-nvim" },
   { import = "astrocommunity.scrolling.satellite-nvim" },
   -- { import = "astrocommunity.scrolling.nvim-scrollbar" },
   -- import/override with your plugins folder

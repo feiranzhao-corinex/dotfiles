@@ -17,5 +17,6 @@ return {
   { import = "astrocommunity.ai.codex-nvim" },
   { import = "astrocommunity.scrolling.satellite-nvim" },
   -- { import = "astrocommunity.scrolling.nvim-scrollbar" },
+  { import = "astrocommunity.git.diffview-nvim" },
   -- import/override with your plugins folder
 }
